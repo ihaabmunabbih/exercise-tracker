@@ -1,0 +1,47 @@
+.exercise {
+    margin: 20px auto;
+    background: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-left: 10px solid var(--pink);
+  }
+  .exercise:hover {
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.9);
+  }
+  h3 {
+    cursor: pointer;
+  }
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .exercise.complete {
+    border-left: 10px solid var(--green);
+  }
+  .buttons {
+    display:flex;
+    flex-direction: column;
+  }
+  .buttons button,a {
+   color: white;
+    background: var(--pink);
+    padding: 0.5rem;
+    border: 0;
+    border: 2px solid transparent;
+    text-decoration: none;
+    font-weight: 600;
+    font-size:2rem;
+    margin-bottom: 5px;
+     border-radius: 6px;
+  
+  }
+  .buttons button:hover, a:hover, button:active, a:active {
+    background: rgb(225, 127, 143);
+  }
+  h4 {
+    transform: skew(-21deg);
+    background: var(--golden);
+    max-width: 430px;
+  }

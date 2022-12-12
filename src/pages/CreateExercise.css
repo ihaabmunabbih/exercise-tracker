@@ -1,0 +1,52 @@
+form  {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  label {
+    display: block;
+    color: goldenrod;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 20px 0 10px 0
+  }
+  input {
+    padding: 10px;
+    width: 400px;
+    max-width: 100%;
+    box-sizing: border-box;
+    border: 1px solid var(--grey);
+    /* margin-bottom: 15px; */
+  }
+  textarea {
+    padding: 10px;
+    max-width: 100%;
+    width: 400px;
+    box-sizing: border-box;
+    border: 1px solid var(--grey);
+
+  }
+  form button {
+    display: block;
+    margin: 20px auto;
+    background: var(--pink);
+    color: goldenrod;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    border: 2px solid transparent;
+  }
+  .MuiFormControl-root {
+    background-color: white;
+    border-radius: 6px;
+    padding: 10px;
+    max-width: 100%;
+    width: 400px;
+  }
+  .MuiFormControl-root input {
+    font-size: 14px !important;
+    letter-spacing: 1px;
+    padding: 10px;
+  }

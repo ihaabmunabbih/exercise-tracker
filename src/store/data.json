@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "title": "Laman Saat Pengguna Jasa Akan Melakukan Upload KTP & STNK ",
+      "details": "1. Ditambahkan icon edit di sisi paling kanan field input No. Rekening, Nama Bank, dan Nama Pemilik Rekening. \n\n2. Dilakukan penyesuaian terhadap style numbering dengan acuan desain berupa tulisan putih dan background biru dengan bulatan. \n\n3. Dilakukan penyesuaian dengan menambah icon ! dan penyesuaian warna Font pada informasi “Ketentuan”\n",
+      "complete": true,
+      "id": 8973
+    },
+    {
+      "title": "Laman Saat User CC/CS Melakukan Reschedule, pada Proses “Konfirmasi Perubahan Jadwal”",
+      "details": "Dilakukan penyesuaian informasi/narasi\nmenjadi “Biaya Admin Ubah Jadwal (25%\nHarga Tiket atau minimal Rp25.000)”,",
+      "complete": true,
+      "id": 4712
+    },
+    {
+      "title": "Link E-Mail Tracking Status Penanganan Refund belum disampaikan ke Pengguna Jasa",
+      "details": "Agar dipastikan bahwa Link Refund\nTracking disampaikan secara otomatis\nkepada Pengguna Jasa melalui E-Mail.",
+      "complete": true,
+      "id": 3043
+    },
+    {
+      "title": "Penyesuaian dan Penambahan Tampilan Informasi Pada Data Booking",
+      "details": "Narasi “Pelabuhan Keberangkatan” Disesuaikan menjadi “Pelabuhan Asal dan Ditambahkan informasi “Pelabuhan Tujuan”",
+      "complete": false,
+      "id": 2987
+    },
+    {
+      "title": "jasjkdgkasdgjasjdhasjdbjkasjkdhasj",
+      "details": "ahsalhdsad",
+      "complete": false,
+      "date": "2021-11-02T06:39:20.710Z",
+      "id": 8351
+    }
+  ]
+}

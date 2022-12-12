@@ -1,0 +1,16 @@
+.main-nav {
+    text-align: center;
+    margin: 40px auto;
+  }
+  .main-nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 10px;
+    color: goldenrod;
+    font-size: 20px;
+
+  }
+  .active-style {
+    border-bottom: 2px solid goldenrod;
+    padding-bottom: 4px;
+  }
